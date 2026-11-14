@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14 08:40",
+ "built": "2026-11-14 11:36",
  "kinds": [
   {
    "kind": "agate",
@@ -12,6 +12,18 @@
    "Good": 4162,
    "pinned": 214,
    "bytes": 4978971
+  },
+  {
+   "kind": "azurite",
+   "name": "Azurite",
+   "look": "Deep blue crusts, little tabular crystals and sprays in cavities of rusty, green-stained copper ore and dump rock; often with malachite.",
+   "file": "azurite.json",
+   "cards": 416,
+   "Best": 89,
+   "Great": 327,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 577778
   },
   {
    "kind": "beryl",
@@ -38,6 +50,18 @@
    "bytes": 1593173
   },
   {
+   "kind": "grossular_andradite",
+   "name": "Skarn garnet",
+   "look": "Brown, green or honey-coloured crystals and massive garnet rock at limestone contacts, often with epidote, pyroxene, calcite and copper stain; the best crystals grew into calcite or open joints and come free \"leaving beautifully sharp casts\" (Shannon 1926 p.301, Seven Devils).",
+   "file": "grossular_andradite.json",
+   "cards": 36,
+   "Best": 8,
+   "Great": 28,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 48226
+  },
+  {
    "kind": "jasper",
    "name": "Jasper",
    "look": "Red, yellow, brown or green; rhyolite-margin jasper is \"usually too fractured\" (Bonnichsen).",
@@ -50,6 +74,54 @@
    "bytes": 6285521
   },
   {
+   "kind": "malachite",
+   "name": "Malachite",
+   "look": "Bright to dark green crusts, velvety tufts, radiating needles and banded nodules on rusty copper ore, on dumps and outcrops of copper mines.",
+   "file": "malachite.json",
+   "cards": 645,
+   "Best": 284,
+   "Great": 361,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 887157
+  },
+  {
+   "kind": "muscovite",
+   "name": "Mica",
+   "look": "Thick six-sided or ragged \"books\" of mica, from an inch to a foot across, in coarse quartz-feldspar pegmatite or loose in the soil below it; they peel into thin, clear, flexible sheets.",
+   "file": "muscovite.json",
+   "cards": 141,
+   "Best": 10,
+   "Great": 131,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 146419
+  },
+  {
+   "kind": "native_copper",
+   "name": "Native copper",
+   "look": "Copper-red to brown or green-coated wires, branching (dendritic) plates, thin films on fractures and small ragged flakes in rusty oxidized ore or dark volcanic rock; often crusted with green malachite or red cuprite.",
+   "file": "native_copper.json",
+   "cards": 177,
+   "Best": 30,
+   "Great": 147,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 259202
+  },
+  {
+   "kind": "native_silver",
+   "name": "Native silver",
+   "look": "Wires, curls, moss-like and frost-like growths, thin leaves or foil in cavities and cracks of rusty, oxidized vein rock (cerusite, limonite, quartz).",
+   "file": "native_silver.json",
+   "cards": 50,
+   "Best": 31,
+   "Great": 19,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 84292
+  },
+  {
    "kind": "obsidian",
    "name": "Obsidian",
    "look": "Black to brown glass with a shell-shaped (conchoidal) break and razor edges; float pieces are often frosted or sand-etched (Lange 1965, Ore Bin 27(4)).",
@@ -58,8 +130,8 @@
    "Best": 7,
    "Great": 452,
    "Good": 0,
-   "pinned": 7,
-   "bytes": 498924
+   "pinned": 0,
+   "bytes": 496847
   },
   {
    "kind": "opal",
@@ -72,6 +144,66 @@
    "Good": 5628,
    "pinned": 0,
    "bytes": 7383696
+  },
+  {
+   "kind": "opalized_wood",
+   "name": "Opalized wood",
+   "look": "Logs, limbs and flakes with the grain kept, in interbed sand and clay, between basalt pillows and under talus; flakes in the wash at a gully's foot lead up the gully to the bed (RI16 p.21).",
+   "file": "opalized_wood.json",
+   "cards": 451,
+   "Best": 6,
+   "Great": 445,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 479282
+  },
+  {
+   "kind": "pyrite",
+   "name": "Pyrite",
+   "look": "Brassy cubes, pyritohedrons (twelve five-sided faces) or octahedra in quartz, calcite or soft sericite; on a dump, in pieces of vein rock and altered granite.",
+   "file": "pyrite.json",
+   "cards": 15,
+   "Best": 12,
+   "Great": 3,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 34951
+  },
+  {
+   "kind": "pyromorphite",
+   "name": "Pyromorphite",
+   "look": "Green, yellow or brown six-sided barrel-shaped crystals, crusts and mossy growths in cracks of rusty, limonite-stained vein rock and slate (\"The prism faces are usually deeply furrowed horizontally and are frequently curved or bulging giving the crystal a barrel shape\", Shannon 1926 p.419).",
+   "file": "pyromorphite.json",
+   "cards": 94,
+   "Best": 38,
+   "Great": 56,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 174599
+  },
+  {
+   "kind": "rhodochrosite",
+   "name": "Rhodochrosite",
+   "look": "Pink to pale pink, often banded or in rhombs; on a dump, in pieces of vein rock with quartz and sulphides.",
+   "file": "rhodochrosite.json",
+   "cards": 207,
+   "Best": 32,
+   "Great": 175,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 302832
+  },
+  {
+   "kind": "sapphire",
+   "name": "Sapphire",
+   "look": "Small: mostly equant etched grains or flat hexagonal tablets 2-7 mm across, most well under 1 carat (Berg 2007 B134; Renfro 2018 p.193).",
+   "file": "sapphire.json",
+   "cards": 7,
+   "Best": 6,
+   "Great": 1,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 10960
   },
   {
    "kind": "star_garnet",
@@ -106,8 +238,8 @@
    "Best": 120,
    "Great": 598,
    "Good": 3328,
-   "pinned": 0,
-   "bytes": 5094090
+   "pinned": 117,
+   "bytes": 5125861
   },
   {
    "kind": "topaz",
@@ -120,6 +252,18 @@
    "Good": 0,
    "pinned": 0,
    "bytes": 105793
+  },
+  {
+   "kind": "tourmaline",
+   "name": "Tourmaline",
+   "look": "Black, glossy, striated prisms, often three-sided in cross-section with rounded sides, from needles to fat crystals; \"as small and large crystals and as crystal aggregates 6 inches or more across\" (Stoll 1950 p.20); \"coarse imperfect black crystals\" in pegmatite blocks in talus (Shannon 1926 p.341).",
+   "file": "tourmaline.json",
+   "cards": 165,
+   "Best": 29,
+   "Great": 136,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 204210
   }
  ]
 }
