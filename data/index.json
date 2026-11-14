@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14 03:43",
+ "built": "2026-11-14 08:40",
  "kinds": [
   {
    "kind": "agate",
@@ -12,6 +12,18 @@
    "Good": 4162,
    "pinned": 214,
    "bytes": 4978971
+  },
+  {
+   "kind": "beryl",
+   "name": "Beryl",
+   "look": "Six-sided prisms, \"Green and white crystals ...",
+   "file": "beryl.json",
+   "cards": 6593,
+   "Best": 222,
+   "Great": 1121,
+   "Good": 5250,
+   "pinned": 0,
+   "bytes": 8691043
   },
   {
    "kind": "common_opal",
@@ -34,8 +46,8 @@
    "Best": 228,
    "Great": 1158,
    "Good": 6514,
-   "pinned": 0,
-   "bytes": 6226809
+   "pinned": 211,
+   "bytes": 6285521
   },
   {
    "kind": "obsidian",
@@ -50,6 +62,42 @@
    "bytes": 498924
   },
   {
+   "kind": "opal",
+   "name": "Precious opal",
+   "look": "Thin layers and nodules in gas cavities, seams and joint fillings in rhyolite (Spencer: vugs \"up to six inches\", Broughton 1972 p.103); at Opal Butte, inside rhyolite geodes \"from a few centimeters to well over a meter in diameter\" (Smith 1988 p.230).",
+   "file": "opal.json",
+   "cards": 5905,
+   "Best": 41,
+   "Great": 236,
+   "Good": 5628,
+   "pinned": 0,
+   "bytes": 7383696
+  },
+  {
+   "kind": "star_garnet",
+   "name": "Star garnet",
+   "look": "Rounded 12-sided (dodecahedron) or 24-sided (trapezohedron) crystals \"from sand sized particles to golf balls or larger\" (USFS 2026); most are under 2 cm (Evans & Moyle 2006 p.30).",
+   "file": "star_garnet.json",
+   "cards": 37,
+   "Best": 7,
+   "Great": 25,
+   "Good": 5,
+   "pinned": 0,
+   "bytes": 43276
+  },
+  {
+   "kind": "sunstone",
+   "name": "Sunstone",
+   "look": "Broken, glassy feldspar fragments with flat cleavage faces, mostly pea to thumb size: the smallest worth keeping \"will not pass through a one-quarter inch screen\"; pieces to 3 x 1.5 x 1 in (Peterson 1972 p.212).",
+   "file": "sunstone.json",
+   "cards": 2,
+   "Best": 2,
+   "Great": 0,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 4831
+  },
+  {
    "kind": "thunderegg",
    "name": "Thunderegg",
    "look": "A ball from under an inch to 4 feet across, \"most are about the size of a baseball\", with \"a knobby rind of drab, siliceous rock\" (Staples 1965); found in the soil and loose rock near its source.",
@@ -60,6 +108,18 @@
    "Good": 3328,
    "pinned": 0,
    "bytes": 5094090
+  },
+  {
+   "kind": "topaz",
+   "name": "Topaz",
+   "look": "Clear, pale yellow or pale blue crystals, short square-ish prisms with a flat end; in the Sawtooth small and glassy in the cavities with smoky quartz and pink feldspar; \"colorless, and pale yellow prisms up to 7 mm.",
+   "file": "topaz.json",
+   "cards": 98,
+   "Best": 34,
+   "Great": 64,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 105793
   }
  ]
 }
