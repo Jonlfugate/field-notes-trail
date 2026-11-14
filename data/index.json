@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14 00:08",
+ "built": "2026-11-14 03:43",
  "kinds": [
   {
    "kind": "agate",
@@ -10,8 +10,8 @@
    "Best": 244,
    "Great": 1037,
    "Good": 4162,
-   "pinned": 64,
-   "bytes": 4937664
+   "pinned": 214,
+   "bytes": 4978971
   },
   {
    "kind": "common_opal",
@@ -30,12 +30,12 @@
    "name": "Jasper",
    "look": "Red, yellow, brown or green; rhyolite-margin jasper is \"usually too fractured\" (Bonnichsen).",
    "file": "jasper.json",
-   "cards": 1099,
-   "Best": 79,
-   "Great": 337,
-   "Good": 683,
+   "cards": 7900,
+   "Best": 228,
+   "Great": 1158,
+   "Good": 6514,
    "pinned": 0,
-   "bytes": 815484
+   "bytes": 6226809
   },
   {
    "kind": "obsidian",
@@ -48,6 +48,18 @@
    "Good": 0,
    "pinned": 7,
    "bytes": 498924
+  },
+  {
+   "kind": "thunderegg",
+   "name": "Thunderegg",
+   "look": "A ball from under an inch to 4 feet across, \"most are about the size of a baseball\", with \"a knobby rind of drab, siliceous rock\" (Staples 1965); found in the soil and loose rock near its source.",
+   "file": "thunderegg.json",
+   "cards": 4046,
+   "Best": 120,
+   "Great": 598,
+   "Good": 3328,
+   "pinned": 0,
+   "bytes": 5094090
   }
  ]
 }
