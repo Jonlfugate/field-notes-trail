@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="apple-touch-icon" href="icon-192.png" />
+    <title>Field Notes</title>
+    <script type="module" crossorigin src="./assets/index-CwbqhNNU.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CEI3kfvo.css">
+  <link rel="manifest" href="./manifest.webmanifest"></head>
+  <body>
+    <div class="app" id="app">
+      <header class="top" id="top">
+        <div class="title-row">
+          <h1>Field Notes</h1>
+          <span class="sub" id="ver">Rock Trail model</span>
+        </div>
+        <div class="seg" id="modes" role="group" aria-label="What to show">
+          <button data-mode="one">One stone</button>
+          <button data-mode="all">All</button>
+          <button data-mode="cur">Curated picks</button>
+        </div>
+        <div class="row" id="row-one">
+          <button class="stone-btn" id="stone-btn" aria-haspopup="dialog"><span id="stone-name">Agate</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+          </button>
+          <div class="count" id="count-one"></div>
+        </div>
+        <div class="row" id="row-all">
+          <div class="all-text"><b>Every stone</b><small>Each stone's spots on one map</small></div>
+          <div class="count" id="count-all"></div>
+        </div>
+        <div class="chips" id="row-cur" role="group" aria-label="Groups"></div>
+      </header>
+
+      <main class="stage" id="stage">
+        <div id="map" role="application" aria-label="Map"></div>
+        <div class="tiers" id="tiers" role="group" aria-label="Which spots to show">
+          <button data-t="1"><i class="dot t1"></i>Best</button>
+          <button data-t="2"><i class="dot t2"></i>Best + Good</button>
+          <button data-t="3"><i class="dot t3"></i>Everything</button>
+        </div>
+        <div class="bases" id="bases" role="group" aria-label="Base map">
+          <button data-base="satellite">Satellite</button>
+          <button data-base="topo">Topo</button>
+          <button data-base="lidar">Lidar</button>
+        </div>
+        <button class="back" id="back" hidden aria-label="Back to the map">
+          <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>Back
+        </button>
+        <div class="loading" id="loading" hidden>Loading spots…</div>
+        <aside class="sheet" id="sheet" hidden></aside>
+        <section class="panel" id="panel" hidden></section>
+        <article class="card" id="card" hidden></article>
+      </main>
+
+      <nav class="tabs" id="tabs" aria-label="Main">
+        <button data-tab="map" aria-current="page">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2-6-2z" /><path d="M9 4v14" /><path d="M15 6v14" /></svg>Map</button>
+        <button data-tab="spots">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13" /><path d="M8 12h13" /><path d="M8 18h13" /><circle cx="4" cy="6" r="1" /><circle cx="4" cy="12" r="1" /><circle cx="4" cy="18" r="1" /></svg>Spots</button>
+        <button data-tab="saved">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z" /></svg>Saved</button>
+        <button data-tab="more">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.5" /><circle cx="12" cy="12" r="1.5" /><circle cx="19" cy="12" r="1.5" /></svg>More</button>
+      </nav>
+
+      <div class="picker" id="picker" hidden role="dialog" aria-modal="true" aria-label="Pick a stone">
+        <div class="picker-box">
+          <div class="picker-head"><b>Pick a stone</b><button id="picker-close" aria-label="Close">✕</button></div>
+          <div class="picker-list" id="picker-list"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
