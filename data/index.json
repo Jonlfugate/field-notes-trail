@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14 11:36",
+ "built": "2026-11-14 14:09",
  "kinds": [
   {
    "kind": "agate",
@@ -22,8 +22,8 @@
    "Best": 89,
    "Great": 327,
    "Good": 0,
-   "pinned": 0,
-   "bytes": 577778
+   "pinned": 88,
+   "bytes": 608396
   },
   {
    "kind": "beryl",
@@ -48,6 +48,30 @@
    "Good": 918,
    "pinned": 58,
    "bytes": 1593173
+  },
+  {
+   "kind": "corundum",
+   "name": "Corundum",
+   "look": "Larger, elongate crystals, \"uniformly dull, translucent or opaque, gray-blue to lilac\" (Clabaugh 1952 p.55), in gneiss lenses or in placer gravel.",
+   "file": "corundum.json",
+   "cards": 7,
+   "Best": 0,
+   "Great": 0,
+   "Good": 7,
+   "pinned": 0,
+   "bytes": 7818
+  },
+  {
+   "kind": "elbaite",
+   "name": "Gem tourmaline (elbaite)",
+   "look": "Pink, green or blue prisms in the pockets of the pegmatite, often with smoky quartz; gem varieties \"may display different colors within the same crystal\" (Dole 1950 p.24).",
+   "file": "elbaite.json",
+   "cards": 3266,
+   "Best": 16,
+   "Great": 3250,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 2822028
   },
   {
    "kind": "grossular_andradite",
