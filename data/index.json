@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15 05:09",
+ "built": "2026-11-15 05:28",
  "kinds": [
   {
    "kind": "agate",
@@ -226,8 +226,8 @@
    "Best": 12,
    "Great": 3,
    "Good": 0,
-   "pinned": 0,
-   "bytes": 34951
+   "pinned": 12,
+   "bytes": 40941
   },
   {
    "kind": "pyromorphite",
