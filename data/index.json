@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14 14:09",
+ "built": "2026-11-14 19:50",
  "kinds": [
   {
    "kind": "agate",
@@ -12,6 +12,30 @@
    "Good": 4162,
    "pinned": 214,
    "bytes": 4978971
+  },
+  {
+   "kind": "almandine",
+   "name": "Almandine garnet",
+   "look": "Ball-shaped 12-sided (dodecahedron) or 24-sided (trapezohedron) crystals in schist, gneiss and amphibolite; in gravel, mostly \"broken fragments of crystals\" (USGS SP14-95, Ruby River).",
+   "file": "almandine.json",
+   "cards": 7864,
+   "Best": 529,
+   "Great": 2547,
+   "Good": 4788,
+   "pinned": 0,
+   "bytes": 8174840
+  },
+  {
+   "kind": "aquamarine",
+   "name": "Aquamarine",
+   "look": "Pale blue to blue-green six-sided crystals or grains in pink or white granite: mostly small grains under half an inch, crystals to about 1.3 inches long and 0.3 inch wide (Pattee 1968 p.75), and round knots 2 to 3 inches across that can be 30 percent aquamarine (p.71).",
+   "file": "aquamarine.json",
+   "cards": 137,
+   "Best": 29,
+   "Great": 108,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 163072
   },
   {
    "kind": "azurite",
@@ -34,8 +58,8 @@
    "Best": 222,
    "Great": 1121,
    "Good": 5250,
-   "pinned": 0,
-   "bytes": 8691043
+   "pinned": 220,
+   "bytes": 8772420
   },
   {
    "kind": "common_opal",
@@ -72,6 +96,18 @@
    "Good": 0,
    "pinned": 0,
    "bytes": 2822028
+  },
+  {
+   "kind": "galena",
+   "name": "Galena",
+   "look": "Heavy, lead-grey, bright metallic pieces that break into little cubes with square corners; crystals (cubes, cuboctahedra) only in vugs.",
+   "file": "galena.json",
+   "cards": 49,
+   "Best": 42,
+   "Great": 7,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 75559
   },
   {
    "kind": "grossular_andradite",
@@ -206,6 +242,18 @@
    "bytes": 174599
   },
   {
+   "kind": "quartz_crystal",
+   "name": "Quartz crystal",
+   "look": "Six-sided prisms with pointed ends, single or in clusters; doubly terminated crystals are rare.",
+   "file": "quartz_crystal.json",
+   "cards": 198,
+   "Best": 49,
+   "Great": 149,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 194354
+  },
+  {
    "kind": "rhodochrosite",
    "name": "Rhodochrosite",
    "look": "Pink to pale pink, often banded or in rhombs; on a dump, in pieces of vein rock with quartz and sulphides.",
@@ -218,6 +266,18 @@
    "bytes": 302832
   },
   {
+   "kind": "rhodonite",
+   "name": "Rhodonite",
+   "look": "Black, heavy, oxide-crusted chunks and boulders; break them and pink shows inside (\"When chunks of black oxide are broken, the pink rhodonite usually shows within the specimen\", DOGAMI B17 p.21).",
+   "file": "rhodonite.json",
+   "cards": 0,
+   "Best": 0,
+   "Great": 0,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 108
+  },
+  {
    "kind": "sapphire",
    "name": "Sapphire",
    "look": "Small: mostly equant etched grains or flat hexagonal tablets 2-7 mm across, most well under 1 carat (Berg 2007 B134; Renfro 2018 p.193).",
@@ -228,6 +288,18 @@
    "Good": 0,
    "pinned": 0,
    "bytes": 10960
+  },
+  {
+   "kind": "specular_hematite",
+   "name": "Specular hematite",
+   "look": "Steel-grey to black, very shiny flakes, curved plates and rosettes (\"broad, lustrous plates, and sheaves\", Shannon 1926 p.194), often in quartz, epidote or garnet rock.",
+   "file": "specular_hematite.json",
+   "cards": 151,
+   "Best": 28,
+   "Great": 123,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 236520
   },
   {
    "kind": "star_garnet",
