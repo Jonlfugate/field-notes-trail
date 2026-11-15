@@ -1,5 +1,5 @@
 {
- "built": "2026-11-14 20:05",
+ "built": "2026-11-15 02:12",
  "kinds": [
   {
    "kind": "agate",
@@ -142,8 +142,8 @@
    "Best": 284,
    "Great": 361,
    "Good": 0,
-   "pinned": 0,
-   "bytes": 887157
+   "pinned": 280,
+   "bytes": 984753
   },
   {
    "kind": "muscovite",
