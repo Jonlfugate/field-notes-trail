@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15 23:12",
+ "built": "2026-11-16 00:33",
  "kinds": [
   {
    "kind": "agate",
@@ -66,12 +66,12 @@
    "name": "Common opal",
    "look": "Glassy to waxy opal without play of colour, in seams, vesicles and cavities: milk white, yellow, brown, red, green or black (RI16 p.9); hyalite is clear and glassy, in botryoidal crusts (GIA 2015).",
    "file": "common_opal.json",
-   "cards": 1258,
+   "cards": 1689,
    "Best": 58,
-   "Great": 282,
+   "Great": 713,
    "Good": 918,
    "pinned": 58,
-   "bytes": 1593173
+   "bytes": 2200672
   },
   {
    "kind": "corundum",
@@ -106,8 +106,8 @@
    "Best": 42,
    "Great": 7,
    "Good": 0,
-   "pinned": 0,
-   "bytes": 75559
+   "pinned": 34,
+   "bytes": 85304
   },
   {
    "kind": "grossular_andradite",
