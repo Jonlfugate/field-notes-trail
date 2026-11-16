@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15 22:50",
+ "built": "2026-11-15 23:12",
  "kinds": [
   {
    "kind": "agate",
@@ -94,8 +94,8 @@
    "Best": 16,
    "Great": 3250,
    "Good": 0,
-   "pinned": 0,
-   "bytes": 2822028
+   "pinned": 16,
+   "bytes": 2829308
   },
   {
    "kind": "galena",
