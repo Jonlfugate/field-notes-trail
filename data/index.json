@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15 19:29",
+ "built": "2026-11-15 21:48",
  "kinds": [
   {
    "kind": "agate",
@@ -22,8 +22,8 @@
    "Best": 529,
    "Great": 2547,
    "Good": 4788,
-   "pinned": 412,
-   "bytes": 8328922
+   "pinned": 521,
+   "bytes": 8373164
   },
   {
    "kind": "aquamarine",
@@ -78,12 +78,12 @@
    "name": "Corundum",
    "look": "Larger, elongate crystals, \"uniformly dull, translucent or opaque, gray-blue to lilac\" (Clabaugh 1952 p.55), in gneiss lenses or in placer gravel.",
    "file": "corundum.json",
-   "cards": 7,
+   "cards": 105,
    "Best": 0,
-   "Great": 0,
+   "Great": 98,
    "Good": 7,
    "pinned": 0,
-   "bytes": 7818
+   "bytes": 147990
   },
   {
    "kind": "elbaite",
@@ -174,12 +174,12 @@
    "name": "Native silver",
    "look": "Wires, curls, moss-like and frost-like growths, thin leaves or foil in cavities and cracks of rusty, oxidized vein rock (cerusite, limonite, quartz).",
    "file": "native_silver.json",
-   "cards": 50,
+   "cards": 560,
    "Best": 31,
-   "Great": 19,
+   "Great": 529,
    "Good": 0,
    "pinned": 31,
-   "bytes": 97390
+   "bytes": 969496
   },
   {
    "kind": "obsidian",
@@ -210,12 +210,12 @@
    "name": "Opalized wood",
    "look": "Logs, limbs and flakes with the grain kept, in interbed sand and clay, between basalt pillows and under talus; flakes in the wash at a gully's foot lead up the gully to the bed (RI16 p.21).",
    "file": "opalized_wood.json",
-   "cards": 451,
+   "cards": 471,
    "Best": 6,
-   "Great": 445,
+   "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 481868
+   "bytes": 511925
   },
   {
    "kind": "pyrite",
@@ -295,12 +295,12 @@
    "name": "Sapphire",
    "look": "Small: mostly equant etched grains or flat hexagonal tablets 2-7 mm across, most well under 1 carat (Berg 2007 B134; Renfro 2018 p.193).",
    "file": "sapphire.json",
-   "cards": 7,
+   "cards": 83,
    "Best": 6,
-   "Great": 1,
+   "Great": 77,
    "Good": 0,
    "pinned": 6,
-   "bytes": 13566
+   "bytes": 123089
   },
   {
    "kind": "specular_hematite",
@@ -331,12 +331,12 @@
    "name": "Sunstone",
    "look": "Broken, glassy feldspar fragments with flat cleavage faces, mostly pea to thumb size: the smallest worth keeping \"will not pass through a one-quarter inch screen\"; pieces to 3 x 1.5 x 1 in (Peterson 1972 p.212).",
    "file": "sunstone.json",
-   "cards": 2,
+   "cards": 4,
    "Best": 2,
-   "Great": 0,
+   "Great": 2,
    "Good": 0,
    "pinned": 2,
-   "bytes": 5917
+   "bytes": 11042
   },
   {
    "kind": "thunderegg",
