@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15 09:20",
+ "built": "2026-11-15 19:09",
  "kinds": [
   {
    "kind": "agate",
@@ -22,8 +22,8 @@
    "Best": 529,
    "Great": 2547,
    "Good": 4788,
-   "pinned": 0,
-   "bytes": 8174840
+   "pinned": 397,
+   "bytes": 8324359
   },
   {
    "kind": "aquamarine",
@@ -252,6 +252,19 @@
    "Good": 0,
    "pinned": 0,
    "bytes": 194354
+  },
+  {
+   "kind": "amethyst",
+   "name": "Amethyst (in quartz)",
+   "look": "Purple quartz crystals: iron in the quartz turned purple by natural radiation (Fritsch and Rossman 1988); surface amethyst is often pale (Dillhoff and George 2016). Quartz crystal spots with a confirmed amethyst find within 10 km.",
+   "of": "quartz_crystal",
+   "file": "amethyst.json",
+   "cards": 70,
+   "Best": 19,
+   "Great": 51,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 79639
   },
   {
    "kind": "rhodochrosite",
