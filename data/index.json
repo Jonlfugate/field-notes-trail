@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15 21:48",
+ "built": "2026-11-15 22:43",
  "kinds": [
   {
    "kind": "agate",
@@ -34,8 +34,8 @@
    "Best": 29,
    "Great": 108,
    "Good": 0,
-   "pinned": 0,
-   "bytes": 163072
+   "pinned": 29,
+   "bytes": 174404
   },
   {
    "kind": "azurite",
@@ -150,24 +150,24 @@
    "name": "Mica",
    "look": "Thick six-sided or ragged \"books\" of mica, from an inch to a foot across, in coarse quartz-feldspar pegmatite or loose in the soil below it; they peel into thin, clear, flexible sheets.",
    "file": "muscovite.json",
-   "cards": 141,
+   "cards": 184,
    "Best": 10,
-   "Great": 131,
+   "Great": 174,
    "Good": 0,
    "pinned": 10,
-   "bytes": 149577
+   "bytes": 207502
   },
   {
    "kind": "native_copper",
    "name": "Native copper",
    "look": "Copper-red to brown or green-coated wires, branching (dendritic) plates, thin films on fractures and small ragged flakes in rusty oxidized ore or dark volcanic rock; often crusted with green malachite or red cuprite.",
    "file": "native_copper.json",
-   "cards": 177,
+   "cards": 427,
    "Best": 30,
-   "Great": 147,
+   "Great": 397,
    "Good": 0,
    "pinned": 30,
-   "bytes": 270778
+   "bytes": 749578
   },
   {
    "kind": "native_silver",
@@ -186,12 +186,12 @@
    "name": "Obsidian",
    "look": "Black to brown glass with a shell-shaped (conchoidal) break and razor edges; float pieces are often frosted or sand-etched (Lange 1965, Ore Bin 27(4)).",
    "file": "obsidian.json",
-   "cards": 459,
+   "cards": 500,
    "Best": 7,
-   "Great": 452,
+   "Great": 493,
    "Good": 0,
    "pinned": 7,
-   "bytes": 498924
+   "bytes": 546502
   },
   {
    "kind": "opal",
@@ -234,12 +234,12 @@
    "name": "Pyromorphite",
    "look": "Green, yellow or brown six-sided barrel-shaped crystals, crusts and mossy growths in cracks of rusty, limonite-stained vein rock and slate (\"The prism faces are usually deeply furrowed horizontally and are frequently curved or bulging giving the crystal a barrel shape\", Shannon 1926 p.419).",
    "file": "pyromorphite.json",
-   "cards": 94,
+   "cards": 203,
    "Best": 38,
-   "Great": 56,
+   "Great": 165,
    "Good": 0,
    "pinned": 38,
-   "bytes": 186921
+   "bytes": 400664
   },
   {
    "kind": "quartz_crystal",
@@ -271,24 +271,24 @@
    "name": "Rhodochrosite",
    "look": "Pink to pale pink, often banded or in rhombs; on a dump, in pieces of vein rock with quartz and sulphides.",
    "file": "rhodochrosite.json",
-   "cards": 207,
+   "cards": 210,
    "Best": 32,
-   "Great": 175,
+   "Great": 178,
    "Good": 0,
    "pinned": 32,
-   "bytes": 317229
+   "bytes": 321633
   },
   {
    "kind": "rhodonite",
    "name": "Rhodonite",
    "look": "Black, heavy, oxide-crusted chunks and boulders; break them and pink shows inside (\"When chunks of black oxide are broken, the pink rhodonite usually shows within the specimen\", DOGAMI B17 p.21).",
    "file": "rhodonite.json",
-   "cards": 0,
+   "cards": 134,
    "Best": 0,
-   "Great": 0,
+   "Great": 134,
    "Good": 0,
    "pinned": 0,
-   "bytes": 108
+   "bytes": 184114
   },
   {
    "kind": "sapphire",
@@ -355,24 +355,24 @@
    "name": "Topaz",
    "look": "Clear, pale yellow or pale blue crystals, short square-ish prisms with a flat end; in the Sawtooth small and glassy in the cavities with smoky quartz and pink feldspar; \"colorless, and pale yellow prisms up to 7 mm.",
    "file": "topaz.json",
-   "cards": 98,
+   "cards": 113,
    "Best": 34,
-   "Great": 64,
+   "Great": 79,
    "Good": 0,
    "pinned": 34,
-   "bytes": 120407
+   "bytes": 139909
   },
   {
    "kind": "tourmaline",
    "name": "Tourmaline",
    "look": "Black, glossy, striated prisms, often three-sided in cross-section with rounded sides, from needles to fat crystals; \"as small and large crystals and as crystal aggregates 6 inches or more across\" (Stoll 1950 p.20); \"coarse imperfect black crystals\" in pegmatite blocks in talus (Shannon 1926 p.341).",
    "file": "tourmaline.json",
-   "cards": 165,
+   "cards": 654,
    "Best": 29,
-   "Great": 136,
+   "Great": 625,
    "Good": 0,
    "pinned": 29,
-   "bytes": 216039
+   "bytes": 911655
   }
  ]
 }
