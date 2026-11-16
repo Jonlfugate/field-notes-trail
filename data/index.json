@@ -1,17 +1,17 @@
 {
- "built": "2026-11-16 02:49",
+ "built": "2026-11-16 09:08",
  "kinds": [
   {
    "kind": "agate",
    "name": "Agate",
    "look": "Drab brown, grey or black outside; often covered with small half-moon chips under 1 cm across; can be pitted.",
    "file": "agate.json",
-   "cards": 5443,
+   "cards": 5529,
    "Best": 244,
-   "Great": 1037,
+   "Great": 1123,
    "Good": 4162,
    "pinned": 214,
-   "bytes": 4978971
+   "bytes": 5076253
   },
   {
    "kind": "almandine",
@@ -30,24 +30,24 @@
    "name": "Aquamarine",
    "look": "Pale blue to blue-green six-sided crystals or grains in pink or white granite: mostly small grains under half an inch, crystals to about 1.3 inches long and 0.3 inch wide (Pattee 1968 p.75), and round knots 2 to 3 inches across that can be 30 percent aquamarine (p.71).",
    "file": "aquamarine.json",
-   "cards": 137,
+   "cards": 192,
    "Best": 29,
-   "Great": 108,
+   "Great": 163,
    "Good": 0,
    "pinned": 29,
-   "bytes": 174404
+   "bytes": 253808
   },
   {
    "kind": "azurite",
    "name": "Azurite",
    "look": "Deep blue crusts, little tabular crystals and sprays in cavities of rusty, green-stained copper ore and dump rock; often with malachite.",
    "file": "azurite.json",
-   "cards": 416,
+   "cards": 432,
    "Best": 89,
-   "Great": 327,
+   "Great": 343,
    "Good": 0,
-   "pinned": 88,
-   "bytes": 608396
+   "pinned": 89,
+   "bytes": 637720
   },
   {
    "kind": "beryl",
@@ -58,8 +58,8 @@
    "Best": 222,
    "Great": 1121,
    "Good": 5250,
-   "pinned": 220,
-   "bytes": 8772420
+   "pinned": 222,
+   "bytes": 8773131
   },
   {
    "kind": "common_opal",
@@ -106,8 +106,8 @@
    "Best": 42,
    "Great": 7,
    "Good": 0,
-   "pinned": 34,
-   "bytes": 85304
+   "pinned": 42,
+   "bytes": 87174
   },
   {
    "kind": "grossular_andradite",
@@ -130,8 +130,8 @@
    "Best": 228,
    "Great": 1158,
    "Good": 6514,
-   "pinned": 211,
-   "bytes": 6285521
+   "pinned": 214,
+   "bytes": 6286361
   },
   {
    "kind": "malachite",
@@ -142,8 +142,8 @@
    "Best": 284,
    "Great": 361,
    "Good": 0,
-   "pinned": 280,
-   "bytes": 984753
+   "pinned": 283,
+   "bytes": 985710
   },
   {
    "kind": "muscovite",
@@ -246,12 +246,12 @@
    "name": "Quartz crystal",
    "look": "Six-sided prisms with pointed ends, single or in clusters; doubly terminated crystals are rare.",
    "file": "quartz_crystal.json",
-   "cards": 198,
+   "cards": 261,
    "Best": 49,
-   "Great": 149,
+   "Great": 212,
    "Good": 0,
-   "pinned": 38,
-   "bytes": 208889
+   "pinned": 48,
+   "bytes": 291310
   },
   {
    "kind": "amethyst",
@@ -259,12 +259,12 @@
    "look": "Purple quartz crystals: iron in the quartz turned purple by natural radiation (Fritsch and Rossman 1988); surface amethyst is often pale (Dillhoff and George 2016). Quartz crystal spots with a confirmed amethyst find within 10 km.",
    "of": "quartz_crystal",
    "file": "amethyst.json",
-   "cards": 70,
-   "Best": 19,
-   "Great": 51,
+   "cards": 84,
+   "Best": 32,
+   "Great": 52,
    "Good": 0,
-   "pinned": 15,
-   "bytes": 91193
+   "pinned": 25,
+   "bytes": 132422
   },
   {
    "kind": "rhodochrosite",
@@ -307,12 +307,12 @@
    "name": "Specular hematite",
    "look": "Steel-grey to black, very shiny flakes, curved plates and rosettes (\"broad, lustrous plates, and sheaves\", Shannon 1926 p.194), often in quartz, epidote or garnet rock.",
    "file": "specular_hematite.json",
-   "cards": 151,
+   "cards": 268,
    "Best": 28,
-   "Great": 123,
+   "Great": 240,
    "Good": 0,
    "pinned": 28,
-   "bytes": 244316
+   "bytes": 476252
   },
   {
    "kind": "star_garnet",
@@ -343,12 +343,12 @@
    "name": "Thunderegg",
    "look": "A ball from under an inch to 4 feet across, \"most are about the size of a baseball\", with \"a knobby rind of drab, siliceous rock\" (Staples 1965); found in the soil and loose rock near its source.",
    "file": "thunderegg.json",
-   "cards": 4046,
+   "cards": 4152,
    "Best": 120,
-   "Great": 598,
+   "Great": 704,
    "Good": 3328,
    "pinned": 117,
-   "bytes": 5125861
+   "bytes": 5270028
   },
   {
    "kind": "topaz",
