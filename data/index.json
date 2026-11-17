@@ -1,5 +1,5 @@
 {
- "built": "2026-11-16 09:08",
+ "built": "2026-11-16 19:23",
  "kinds": [
   {
    "kind": "agate",
@@ -126,12 +126,12 @@
    "name": "Jasper",
    "look": "Red, yellow, brown or green; rhyolite-margin jasper is \"usually too fractured\" (Bonnichsen).",
    "file": "jasper.json",
-   "cards": 7900,
+   "cards": 8190,
    "Best": 228,
-   "Great": 1158,
+   "Great": 1448,
    "Good": 6514,
    "pinned": 214,
-   "bytes": 6286361
+   "bytes": 6639722
   },
   {
    "kind": "malachite",
