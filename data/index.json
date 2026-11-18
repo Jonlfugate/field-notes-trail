@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 11:20",
+ "built": "2026-11-18 11:33",
  "kinds": [
   {
    "kind": "agate",
@@ -11,7 +11,7 @@
    "Great": 1799,
    "Good": 5766,
    "pinned": 300,
-   "bytes": 7256468
+   "bytes": 7257888
   },
   {
    "kind": "almandine",
@@ -23,7 +23,7 @@
    "Great": 2525,
    "Good": 4651,
    "pinned": 514,
-   "bytes": 8411801
+   "bytes": 8414070
   },
   {
    "kind": "aquamarine",
@@ -47,7 +47,7 @@
    "Great": 316,
    "Good": 0,
    "pinned": 83,
-   "bytes": 587760
+   "bytes": 588359
   },
   {
    "kind": "beryl",
@@ -59,7 +59,7 @@
    "Great": 1118,
    "Good": 5260,
    "pinned": 221,
-   "bytes": 8944277
+   "bytes": 8945253
   },
   {
    "kind": "common_opal",
@@ -71,7 +71,7 @@
    "Great": 713,
    "Good": 952,
    "pinned": 58,
-   "bytes": 2301206
+   "bytes": 2302901
   },
   {
    "kind": "corundum",
@@ -95,7 +95,7 @@
    "Great": 3073,
    "Good": 0,
    "pinned": 16,
-   "bytes": 2685771
+   "bytes": 2686283
   },
   {
    "kind": "galena",
@@ -107,7 +107,7 @@
    "Great": 7,
    "Good": 0,
    "pinned": 43,
-   "bytes": 102360
+   "bytes": 103370
   },
   {
    "kind": "grossular_andradite",
@@ -119,7 +119,7 @@
    "Great": 18,
    "Good": 0,
    "pinned": 8,
-   "bytes": 42909
+   "bytes": 43067
   },
   {
    "kind": "jasper",
@@ -131,7 +131,7 @@
    "Great": 1421,
    "Good": 6329,
    "pinned": 216,
-   "bytes": 6654289
+   "bytes": 6655597
   },
   {
    "kind": "malachite",
@@ -143,7 +143,7 @@
    "Great": 331,
    "Good": 0,
    "pinned": 269,
-   "bytes": 939438
+   "bytes": 940849
   },
   {
    "kind": "muscovite",
@@ -191,7 +191,7 @@
    "Great": 524,
    "Good": 0,
    "pinned": 7,
-   "bytes": 589165
+   "bytes": 589687
   },
   {
    "kind": "opal",
@@ -203,7 +203,7 @@
    "Great": 237,
    "Good": 5631,
    "pinned": 40,
-   "bytes": 7418791
+   "bytes": 7419401
   },
   {
    "kind": "opalized_wood",
@@ -215,7 +215,7 @@
    "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 524324
+   "bytes": 524485
   },
   {
    "kind": "pyrite",
@@ -251,7 +251,7 @@
    "Great": 212,
    "Good": 0,
    "pinned": 48,
-   "bytes": 306883
+   "bytes": 307041
   },
   {
    "kind": "amethyst",
@@ -264,7 +264,7 @@
    "Great": 52,
    "Good": 0,
    "pinned": 25,
-   "bytes": 143459
+   "bytes": 143617
   },
   {
    "kind": "rhodochrosite",
@@ -276,7 +276,7 @@
    "Great": 161,
    "Good": 0,
    "pinned": 29,
-   "bytes": 302264
+   "bytes": 302582
   },
   {
    "kind": "rhodonite",
@@ -312,7 +312,7 @@
    "Great": 240,
    "Good": 0,
    "pinned": 28,
-   "bytes": 487980
+   "bytes": 488296
   },
   {
    "kind": "star_garnet",
@@ -336,7 +336,7 @@
    "Great": 1,
    "Good": 0,
    "pinned": 2,
-   "bytes": 7814
+   "bytes": 7973
   },
   {
    "kind": "thunderegg",
@@ -348,7 +348,7 @@
    "Great": 704,
    "Good": 3324,
    "pinned": 117,
-   "bytes": 5358543
+   "bytes": 5359263
   },
   {
    "kind": "topaz",
@@ -372,7 +372,7 @@
    "Great": 617,
    "Good": 0,
    "pinned": 27,
-   "bytes": 930872
+   "bytes": 931286
   }
  ]
 }
