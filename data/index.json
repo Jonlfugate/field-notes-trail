@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 11:33",
+ "built": "2026-11-18 13:42",
  "kinds": [
   {
    "kind": "agate",
@@ -11,7 +11,7 @@
    "Great": 1799,
    "Good": 5766,
    "pinned": 300,
-   "bytes": 7257888
+   "bytes": 7277485
   },
   {
    "kind": "almandine",
@@ -23,7 +23,7 @@
    "Great": 2525,
    "Good": 4651,
    "pinned": 514,
-   "bytes": 8414070
+   "bytes": 8433477
   },
   {
    "kind": "aquamarine",
@@ -35,7 +35,7 @@
    "Great": 163,
    "Good": 0,
    "pinned": 29,
-   "bytes": 260590
+   "bytes": 262646
   },
   {
    "kind": "azurite",
@@ -47,7 +47,7 @@
    "Great": 316,
    "Good": 0,
    "pinned": 83,
-   "bytes": 588359
+   "bytes": 591029
   },
   {
    "kind": "beryl",
@@ -59,7 +59,7 @@
    "Great": 1118,
    "Good": 5260,
    "pinned": 221,
-   "bytes": 8945253
+   "bytes": 8958435
   },
   {
    "kind": "common_opal",
@@ -71,7 +71,7 @@
    "Great": 713,
    "Good": 952,
    "pinned": 58,
-   "bytes": 2302901
+   "bytes": 2304068
   },
   {
    "kind": "corundum",
@@ -95,7 +95,7 @@
    "Great": 3073,
    "Good": 0,
    "pinned": 16,
-   "bytes": 2686283
+   "bytes": 2687039
   },
   {
    "kind": "galena",
@@ -107,7 +107,7 @@
    "Great": 7,
    "Good": 0,
    "pinned": 43,
-   "bytes": 103370
+   "bytes": 103753
   },
   {
    "kind": "grossular_andradite",
@@ -119,7 +119,7 @@
    "Great": 18,
    "Good": 0,
    "pinned": 8,
-   "bytes": 43067
+   "bytes": 43397
   },
   {
    "kind": "jasper",
@@ -131,7 +131,7 @@
    "Great": 1421,
    "Good": 6329,
    "pinned": 216,
-   "bytes": 6655597
+   "bytes": 6667733
   },
   {
    "kind": "malachite",
@@ -143,19 +143,19 @@
    "Great": 331,
    "Good": 0,
    "pinned": 269,
-   "bytes": 940849
+   "bytes": 946087
   },
   {
    "kind": "muscovite",
    "name": "Mica",
    "look": "Thick six-sided or ragged \"books\" of mica, from an inch to a foot across, in coarse quartz-feldspar pegmatite or loose in the soil below it; they peel into thin, clear, flexible sheets.",
    "file": "muscovite.json",
-   "cards": 184,
+   "cards": 434,
    "Best": 10,
-   "Great": 174,
+   "Great": 424,
    "Good": 0,
    "pinned": 10,
-   "bytes": 215485
+   "bytes": 572070
   },
   {
    "kind": "native_copper",
@@ -167,7 +167,7 @@
    "Great": 393,
    "Good": 0,
    "pinned": 29,
-   "bytes": 755940
+   "bytes": 759139
   },
   {
    "kind": "native_silver",
@@ -179,7 +179,7 @@
    "Great": 525,
    "Good": 0,
    "pinned": 25,
-   "bytes": 970666
+   "bytes": 973396
   },
   {
    "kind": "obsidian",
@@ -191,7 +191,7 @@
    "Great": 524,
    "Good": 0,
    "pinned": 7,
-   "bytes": 589687
+   "bytes": 590002
   },
   {
    "kind": "opal",
@@ -203,7 +203,7 @@
    "Great": 237,
    "Good": 5631,
    "pinned": 40,
-   "bytes": 7419401
+   "bytes": 7420499
   },
   {
    "kind": "opalized_wood",
@@ -215,7 +215,7 @@
    "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 524485
+   "bytes": 525098
   },
   {
    "kind": "pyrite",
@@ -227,7 +227,7 @@
    "Great": 2,
    "Good": 0,
    "pinned": 12,
-   "bytes": 35161
+   "bytes": 35865
   },
   {
    "kind": "pyromorphite",
@@ -239,19 +239,19 @@
    "Great": 166,
    "Good": 0,
    "pinned": 38,
-   "bytes": 417409
+   "bytes": 421140
   },
   {
    "kind": "quartz_crystal",
    "name": "Quartz crystal",
    "look": "Six-sided prisms with pointed ends, single or in clusters; doubly terminated crystals are rare.",
    "file": "quartz_crystal.json",
-   "cards": 261,
+   "cards": 314,
    "Best": 49,
-   "Great": 212,
+   "Great": 265,
    "Good": 0,
    "pinned": 48,
-   "bytes": 307041
+   "bytes": 375562
   },
   {
    "kind": "amethyst",
@@ -259,12 +259,12 @@
    "look": "Purple quartz crystals: iron in the quartz turned purple by natural radiation (Fritsch and Rossman 1988); surface amethyst is often pale (Dillhoff and George 2016). Quartz crystal spots with a confirmed amethyst find within 10 km.",
    "of": "quartz_crystal",
    "file": "amethyst.json",
-   "cards": 84,
-   "Best": 32,
-   "Great": 52,
+   "cards": 101,
+   "Best": 46,
+   "Great": 55,
    "Good": 0,
    "pinned": 25,
-   "bytes": 143617
+   "bytes": 185095
   },
   {
    "kind": "rhodochrosite",
@@ -276,7 +276,7 @@
    "Great": 161,
    "Good": 0,
    "pinned": 29,
-   "bytes": 302582
+   "bytes": 303621
   },
   {
    "kind": "rhodonite",
@@ -300,7 +300,7 @@
    "Great": 77,
    "Good": 0,
    "pinned": 6,
-   "bytes": 127120
+   "bytes": 127278
   },
   {
    "kind": "specular_hematite",
@@ -312,7 +312,7 @@
    "Great": 240,
    "Good": 0,
    "pinned": 28,
-   "bytes": 488296
+   "bytes": 489051
   },
   {
    "kind": "star_garnet",
@@ -324,7 +324,7 @@
    "Great": 25,
    "Good": 5,
    "pinned": 7,
-   "bytes": 48671
+   "bytes": 49350
   },
   {
    "kind": "sunstone",
@@ -348,7 +348,7 @@
    "Great": 704,
    "Good": 3324,
    "pinned": 117,
-   "bytes": 5359263
+   "bytes": 5361735
   },
   {
    "kind": "topaz",
@@ -360,7 +360,7 @@
    "Great": 79,
    "Good": 0,
    "pinned": 33,
-   "bytes": 143339
+   "bytes": 145071
   },
   {
    "kind": "tourmaline",
@@ -372,7 +372,7 @@
    "Great": 617,
    "Good": 0,
    "pinned": 27,
-   "bytes": 931286
+   "bytes": 931619
   }
  ]
 }
