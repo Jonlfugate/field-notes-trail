@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 13:50",
+ "built": "2026-11-18 13:58",
  "kinds": [
   {
    "kind": "agate",
@@ -155,7 +155,7 @@
    "Great": 424,
    "Good": 0,
    "pinned": 10,
-   "bytes": 575063
+   "bytes": 574883
   },
   {
    "kind": "native_copper",
@@ -251,7 +251,7 @@
    "Great": 265,
    "Good": 0,
    "pinned": 48,
-   "bytes": 376754
+   "bytes": 376684
   },
   {
    "kind": "amethyst",
