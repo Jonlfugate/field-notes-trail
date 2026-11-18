@@ -1,17 +1,17 @@
 {
- "built": "2026-11-16 19:23",
+ "built": "2026-11-17 16:00",
  "kinds": [
   {
    "kind": "agate",
    "name": "Agate",
    "look": "Drab brown, grey or black outside; often covered with small half-moon chips under 1 cm across; can be pitted.",
    "file": "agate.json",
-   "cards": 5529,
-   "Best": 244,
-   "Great": 1123,
-   "Good": 4162,
-   "pinned": 214,
-   "bytes": 5076253
+   "cards": 7895,
+   "Best": 330,
+   "Great": 1799,
+   "Good": 5766,
+   "pinned": 233,
+   "bytes": 7206836
   },
   {
    "kind": "almandine",
@@ -23,7 +23,7 @@
    "Great": 2547,
    "Good": 4788,
    "pinned": 521,
-   "bytes": 8373164
+   "bytes": 8525201
   },
   {
    "kind": "aquamarine",
@@ -35,19 +35,19 @@
    "Great": 163,
    "Good": 0,
    "pinned": 29,
-   "bytes": 253808
+   "bytes": 255983
   },
   {
    "kind": "azurite",
    "name": "Azurite",
    "look": "Deep blue crusts, little tabular crystals and sprays in cavities of rusty, green-stained copper ore and dump rock; often with malachite.",
    "file": "azurite.json",
-   "cards": 432,
-   "Best": 89,
-   "Great": 343,
+   "cards": 399,
+   "Best": 83,
+   "Great": 316,
    "Good": 0,
-   "pinned": 89,
-   "bytes": 637720
+   "pinned": 83,
+   "bytes": 576424
   },
   {
    "kind": "beryl",
@@ -59,19 +59,19 @@
    "Great": 1121,
    "Good": 5250,
    "pinned": 222,
-   "bytes": 8773131
+   "bytes": 8898566
   },
   {
    "kind": "common_opal",
    "name": "Common opal",
    "look": "Glassy to waxy opal without play of colour, in seams, vesicles and cavities: milk white, yellow, brown, red, green or black (RI16 p.9); hyalite is clear and glassy, in botryoidal crusts (GIA 2015).",
    "file": "common_opal.json",
-   "cards": 1689,
+   "cards": 1723,
    "Best": 58,
    "Great": 713,
-   "Good": 918,
+   "Good": 952,
    "pinned": 58,
-   "bytes": 2200672
+   "bytes": 2287130
   },
   {
    "kind": "corundum",
@@ -83,43 +83,43 @@
    "Great": 98,
    "Good": 7,
    "pinned": 0,
-   "bytes": 147990
+   "bytes": 151257
   },
   {
    "kind": "elbaite",
    "name": "Gem tourmaline (elbaite)",
    "look": "Pink, green or blue prisms in the pockets of the pegmatite, often with smoky quartz; gem varieties \"may display different colors within the same crystal\" (Dole 1950 p.24).",
    "file": "elbaite.json",
-   "cards": 3266,
+   "cards": 3089,
    "Best": 16,
-   "Great": 3250,
+   "Great": 3073,
    "Good": 0,
    "pinned": 16,
-   "bytes": 2829308
+   "bytes": 2683332
   },
   {
    "kind": "galena",
    "name": "Galena",
    "look": "Heavy, lead-grey, bright metallic pieces that break into little cubes with square corners; crystals (cubes, cuboctahedra) only in vugs.",
    "file": "galena.json",
-   "cards": 49,
-   "Best": 42,
+   "cards": 50,
+   "Best": 43,
    "Great": 7,
    "Good": 0,
-   "pinned": 42,
-   "bytes": 87174
+   "pinned": 43,
+   "bytes": 91035
   },
   {
    "kind": "grossular_andradite",
    "name": "Skarn garnet",
    "look": "Brown, green or honey-coloured crystals and massive garnet rock at limestone contacts, often with epidote, pyroxene, calcite and copper stain; the best crystals grew into calcite or open joints and come free \"leaving beautifully sharp casts\" (Shannon 1926 p.301, Seven Devils).",
    "file": "grossular_andradite.json",
-   "cards": 36,
+   "cards": 26,
    "Best": 8,
-   "Great": 28,
+   "Great": 18,
    "Good": 0,
    "pinned": 8,
-   "bytes": 51682
+   "bytes": 41330
   },
   {
    "kind": "jasper",
@@ -131,19 +131,19 @@
    "Great": 1448,
    "Good": 6514,
    "pinned": 214,
-   "bytes": 6639722
+   "bytes": 6795986
   },
   {
    "kind": "malachite",
    "name": "Malachite",
    "look": "Bright to dark green crusts, velvety tufts, radiating needles and banded nodules on rusty copper ore, on dumps and outcrops of copper mines.",
    "file": "malachite.json",
-   "cards": 645,
-   "Best": 284,
-   "Great": 361,
+   "cards": 600,
+   "Best": 269,
+   "Great": 331,
    "Good": 0,
-   "pinned": 283,
-   "bytes": 985710
+   "pinned": 269,
+   "bytes": 901669
   },
   {
    "kind": "muscovite",
@@ -155,55 +155,55 @@
    "Great": 174,
    "Good": 0,
    "pinned": 10,
-   "bytes": 207502
+   "bytes": 211117
   },
   {
    "kind": "native_copper",
    "name": "Native copper",
    "look": "Copper-red to brown or green-coated wires, branching (dendritic) plates, thin films on fractures and small ragged flakes in rusty oxidized ore or dark volcanic rock; often crusted with green malachite or red cuprite.",
    "file": "native_copper.json",
-   "cards": 427,
-   "Best": 30,
-   "Great": 397,
+   "cards": 422,
+   "Best": 29,
+   "Great": 393,
    "Good": 0,
-   "pinned": 30,
-   "bytes": 749578
+   "pinned": 29,
+   "bytes": 751133
   },
   {
    "kind": "native_silver",
    "name": "Native silver",
    "look": "Wires, curls, moss-like and frost-like growths, thin leaves or foil in cavities and cracks of rusty, oxidized vein rock (cerusite, limonite, quartz).",
    "file": "native_silver.json",
-   "cards": 560,
-   "Best": 31,
-   "Great": 529,
+   "cards": 550,
+   "Best": 25,
+   "Great": 525,
    "Good": 0,
-   "pinned": 31,
-   "bytes": 969496
+   "pinned": 25,
+   "bytes": 965222
   },
   {
    "kind": "obsidian",
    "name": "Obsidian",
    "look": "Black to brown glass with a shell-shaped (conchoidal) break and razor edges; float pieces are often frosted or sand-etched (Lange 1965, Ore Bin 27(4)).",
    "file": "obsidian.json",
-   "cards": 500,
+   "cards": 531,
    "Best": 7,
-   "Great": 493,
+   "Great": 524,
    "Good": 0,
    "pinned": 7,
-   "bytes": 546502
+   "bytes": 587668
   },
   {
    "kind": "opal",
    "name": "Precious opal",
    "look": "Thin layers and nodules in gas cavities, seams and joint fillings in rhyolite (Spencer: vugs \"up to six inches\", Broughton 1972 p.103); at Opal Butte, inside rhyolite geodes \"from a few centimeters to well over a meter in diameter\" (Smith 1988 p.230).",
    "file": "opal.json",
-   "cards": 5905,
+   "cards": 5909,
    "Best": 41,
-   "Great": 236,
-   "Good": 5628,
+   "Great": 237,
+   "Good": 5631,
    "pinned": 40,
-   "bytes": 7395941
+   "bytes": 7413757
   },
   {
    "kind": "opalized_wood",
@@ -215,31 +215,31 @@
    "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 511925
+   "bytes": 522975
   },
   {
    "kind": "pyrite",
    "name": "Pyrite",
    "look": "Brassy cubes, pyritohedrons (twelve five-sided faces) or octahedra in quartz, calcite or soft sericite; on a dump, in pieces of vein rock and altered granite.",
    "file": "pyrite.json",
-   "cards": 15,
+   "cards": 14,
    "Best": 12,
-   "Great": 3,
+   "Great": 2,
    "Good": 0,
    "pinned": 12,
-   "bytes": 40941
+   "bytes": 33085
   },
   {
    "kind": "pyromorphite",
    "name": "Pyromorphite",
    "look": "Green, yellow or brown six-sided barrel-shaped crystals, crusts and mossy growths in cracks of rusty, limonite-stained vein rock and slate (\"The prism faces are usually deeply furrowed horizontally and are frequently curved or bulging giving the crystal a barrel shape\", Shannon 1926 p.419).",
    "file": "pyromorphite.json",
-   "cards": 203,
+   "cards": 204,
    "Best": 38,
-   "Great": 165,
+   "Great": 166,
    "Good": 0,
    "pinned": 38,
-   "bytes": 400664
+   "bytes": 407846
   },
   {
    "kind": "quartz_crystal",
@@ -251,7 +251,7 @@
    "Great": 212,
    "Good": 0,
    "pinned": 48,
-   "bytes": 291310
+   "bytes": 299034
   },
   {
    "kind": "amethyst",
@@ -264,31 +264,31 @@
    "Great": 52,
    "Good": 0,
    "pinned": 25,
-   "bytes": 132422
+   "bytes": 136633
   },
   {
    "kind": "rhodochrosite",
    "name": "Rhodochrosite",
    "look": "Pink to pale pink, often banded or in rhombs; on a dump, in pieces of vein rock with quartz and sulphides.",
    "file": "rhodochrosite.json",
-   "cards": 210,
-   "Best": 32,
-   "Great": 178,
+   "cards": 190,
+   "Best": 29,
+   "Great": 161,
    "Good": 0,
-   "pinned": 32,
-   "bytes": 321633
+   "pinned": 29,
+   "bytes": 296078
   },
   {
    "kind": "rhodonite",
    "name": "Rhodonite",
    "look": "Black, heavy, oxide-crusted chunks and boulders; break them and pink shows inside (\"When chunks of black oxide are broken, the pink rhodonite usually shows within the specimen\", DOGAMI B17 p.21).",
    "file": "rhodonite.json",
-   "cards": 134,
+   "cards": 133,
    "Best": 0,
-   "Great": 134,
+   "Great": 133,
    "Good": 0,
    "pinned": 0,
-   "bytes": 184114
+   "bytes": 184530
   },
   {
    "kind": "sapphire",
@@ -300,7 +300,7 @@
    "Great": 77,
    "Good": 0,
    "pinned": 6,
-   "bytes": 123089
+   "bytes": 125006
   },
   {
    "kind": "specular_hematite",
@@ -312,7 +312,7 @@
    "Great": 240,
    "Good": 0,
    "pinned": 28,
-   "bytes": 476252
+   "bytes": 480671
   },
   {
    "kind": "star_garnet",
@@ -324,55 +324,55 @@
    "Great": 25,
    "Good": 5,
    "pinned": 7,
-   "bytes": 47459
+   "bytes": 47781
   },
   {
    "kind": "sunstone",
    "name": "Sunstone",
    "look": "Broken, glassy feldspar fragments with flat cleavage faces, mostly pea to thumb size: the smallest worth keeping \"will not pass through a one-quarter inch screen\"; pieces to 3 x 1.5 x 1 in (Peterson 1972 p.212).",
    "file": "sunstone.json",
-   "cards": 4,
+   "cards": 3,
    "Best": 2,
-   "Great": 2,
+   "Great": 1,
    "Good": 0,
    "pinned": 2,
-   "bytes": 11042
+   "bytes": 7298
   },
   {
    "kind": "thunderegg",
    "name": "Thunderegg",
    "look": "A ball from under an inch to 4 feet across, \"most are about the size of a baseball\", with \"a knobby rind of drab, siliceous rock\" (Staples 1965); found in the soil and loose rock near its source.",
    "file": "thunderegg.json",
-   "cards": 4152,
+   "cards": 4148,
    "Best": 120,
    "Great": 704,
-   "Good": 3328,
+   "Good": 3324,
    "pinned": 117,
-   "bytes": 5270028
+   "bytes": 5341223
   },
   {
    "kind": "topaz",
    "name": "Topaz",
    "look": "Clear, pale yellow or pale blue crystals, short square-ish prisms with a flat end; in the Sawtooth small and glassy in the cavities with smoky quartz and pink feldspar; \"colorless, and pale yellow prisms up to 7 mm.",
    "file": "topaz.json",
-   "cards": 113,
-   "Best": 34,
+   "cards": 112,
+   "Best": 33,
    "Great": 79,
    "Good": 0,
-   "pinned": 34,
-   "bytes": 139909
+   "pinned": 33,
+   "bytes": 139722
   },
   {
    "kind": "tourmaline",
    "name": "Tourmaline",
    "look": "Black, glossy, striated prisms, often three-sided in cross-section with rounded sides, from needles to fat crystals; \"as small and large crystals and as crystal aggregates 6 inches or more across\" (Stoll 1950 p.20); \"coarse imperfect black crystals\" in pegmatite blocks in talus (Shannon 1926 p.341).",
    "file": "tourmaline.json",
-   "cards": 654,
-   "Best": 29,
-   "Great": 625,
+   "cards": 644,
+   "Best": 27,
+   "Great": 617,
    "Good": 0,
-   "pinned": 29,
-   "bytes": 911655
+   "pinned": 27,
+   "bytes": 913610
   }
  ]
 }
