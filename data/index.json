@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 00:35",
+ "built": "2026-11-18 10:37",
  "kinds": [
   {
    "kind": "agate",
@@ -11,7 +11,7 @@
    "Great": 1799,
    "Good": 5766,
    "pinned": 300,
-   "bytes": 7244029
+   "bytes": 7244037
   },
   {
    "kind": "almandine",
@@ -22,8 +22,8 @@
    "Best": 527,
    "Great": 2525,
    "Good": 4651,
-   "pinned": 421,
-   "bytes": 8374996
+   "pinned": 514,
+   "bytes": 8397766
   },
   {
    "kind": "aquamarine",
@@ -126,12 +126,12 @@
    "name": "Jasper",
    "look": "Red, yellow, brown or green; rhyolite-margin jasper is \"usually too fractured\" (Bonnichsen).",
    "file": "jasper.json",
-   "cards": 8190,
-   "Best": 228,
-   "Great": 1448,
-   "Good": 6514,
-   "pinned": 214,
-   "bytes": 6812946
+   "cards": 7973,
+   "Best": 223,
+   "Great": 1421,
+   "Good": 6329,
+   "pinned": 216,
+   "bytes": 6628095
   },
   {
    "kind": "malachite",
