@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 23:19",
+ "built": "2026-11-19 00:18",
  "kinds": [
   {
    "kind": "agate",
@@ -47,7 +47,7 @@
    "Great": 1019,
    "Good": 0,
    "pinned": 72,
-   "bytes": 1413274
+   "bytes": 1413290
   },
   {
    "kind": "beryl",
@@ -142,8 +142,8 @@
    "Best": 635,
    "Great": 1391,
    "Good": 0,
-   "pinned": 304,
-   "bytes": 2505976
+   "pinned": 323,
+   "bytes": 2511613
   },
   {
    "kind": "muscovite",
@@ -186,12 +186,12 @@
    "name": "Obsidian",
    "look": "Black to brown glass with a shell-shaped (conchoidal) break and razor edges; float pieces are often frosted or sand-etched (Lange 1965, Ore Bin 27(4)).",
    "file": "obsidian.json",
-   "cards": 531,
-   "Best": 7,
-   "Great": 524,
+   "cards": 817,
+   "Best": 10,
+   "Great": 807,
    "Good": 0,
-   "pinned": 7,
-   "bytes": 590718
+   "pinned": 10,
+   "bytes": 957144
   },
   {
    "kind": "opal",
@@ -203,7 +203,7 @@
    "Great": 237,
    "Good": 5631,
    "pinned": 40,
-   "bytes": 7420981
+   "bytes": 7420989
   },
   {
    "kind": "opalized_wood",
