@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 16:44",
+ "built": "2026-11-18 23:19",
  "kinds": [
   {
    "kind": "agate",
@@ -11,7 +11,7 @@
    "Great": 1799,
    "Good": 5766,
    "pinned": 300,
-   "bytes": 7277485
+   "bytes": 7280283
   },
   {
    "kind": "almandine",
@@ -22,8 +22,8 @@
    "Best": 527,
    "Great": 2525,
    "Good": 4651,
-   "pinned": 514,
-   "bytes": 8433477
+   "pinned": 521,
+   "bytes": 8434838
   },
   {
    "kind": "aquamarine",
@@ -42,12 +42,12 @@
    "name": "Azurite",
    "look": "Deep blue crusts, little tabular crystals and sprays in cavities of rusty, green-stained copper ore and dump rock; often with malachite.",
    "file": "azurite.json",
-   "cards": 399,
-   "Best": 83,
-   "Great": 316,
+   "cards": 1196,
+   "Best": 177,
+   "Great": 1019,
    "Good": 0,
-   "pinned": 83,
-   "bytes": 591029
+   "pinned": 72,
+   "bytes": 1413274
   },
   {
    "kind": "beryl",
@@ -59,7 +59,7 @@
    "Great": 1118,
    "Good": 5260,
    "pinned": 221,
-   "bytes": 8958467
+   "bytes": 8958483
   },
   {
    "kind": "common_opal",
@@ -71,7 +71,7 @@
    "Great": 713,
    "Good": 952,
    "pinned": 58,
-   "bytes": 2304068
+   "bytes": 2303867
   },
   {
    "kind": "corundum",
@@ -131,31 +131,31 @@
    "Great": 1421,
    "Good": 6329,
    "pinned": 216,
-   "bytes": 6667733
+   "bytes": 6668915
   },
   {
    "kind": "malachite",
    "name": "Malachite",
    "look": "Bright to dark green crusts, velvety tufts, radiating needles and banded nodules on rusty copper ore, on dumps and outcrops of copper mines.",
    "file": "malachite.json",
-   "cards": 600,
-   "Best": 269,
-   "Great": 331,
+   "cards": 2026,
+   "Best": 635,
+   "Great": 1391,
    "Good": 0,
-   "pinned": 269,
-   "bytes": 946087
+   "pinned": 304,
+   "bytes": 2505976
   },
   {
    "kind": "muscovite",
    "name": "Mica",
    "look": "Thick six-sided or ragged \"books\" of mica, from an inch to a foot across, in coarse quartz-feldspar pegmatite or loose in the soil below it; they peel into thin, clear, flexible sheets.",
    "file": "muscovite.json",
-   "cards": 434,
+   "cards": 1288,
    "Best": 10,
-   "Great": 424,
-   "Good": 0,
+   "Great": 418,
+   "Good": 860,
    "pinned": 10,
-   "bytes": 574883
+   "bytes": 1931744
   },
   {
    "kind": "native_copper",
@@ -191,7 +191,7 @@
    "Great": 524,
    "Good": 0,
    "pinned": 7,
-   "bytes": 590002
+   "bytes": 590718
   },
   {
    "kind": "opal",
@@ -203,7 +203,7 @@
    "Great": 237,
    "Good": 5631,
    "pinned": 40,
-   "bytes": 7420499
+   "bytes": 7420981
   },
   {
    "kind": "opalized_wood",
@@ -215,7 +215,7 @@
    "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 525098
+   "bytes": 525629
   },
   {
    "kind": "pyrite",
@@ -250,8 +250,8 @@
    "Best": 99,
    "Great": 584,
    "Good": 0,
-   "pinned": 99,
-   "bytes": 857513
+   "pinned": 137,
+   "bytes": 872152
   },
   {
    "kind": "amethyst",
@@ -263,20 +263,20 @@
    "Best": 77,
    "Great": 124,
    "Good": 0,
-   "pinned": 54,
-   "bytes": 381342
+   "pinned": 92,
+   "bytes": 395968
   },
   {
    "kind": "rhodochrosite",
    "name": "Rhodochrosite",
    "look": "Pink to pale pink, often banded or in rhombs; on a dump, in pieces of vein rock with quartz and sulphides.",
    "file": "rhodochrosite.json",
-   "cards": 190,
-   "Best": 29,
-   "Great": 161,
+   "cards": 880,
+   "Best": 73,
+   "Great": 807,
    "Good": 0,
-   "pinned": 29,
-   "bytes": 303621
+   "pinned": 25,
+   "bytes": 862275
   },
   {
    "kind": "rhodonite",
@@ -300,19 +300,19 @@
    "Great": 77,
    "Good": 0,
    "pinned": 6,
-   "bytes": 127278
+   "bytes": 128078
   },
   {
    "kind": "specular_hematite",
    "name": "Specular hematite",
    "look": "Steel-grey to black, very shiny flakes, curved plates and rosettes (\"broad, lustrous plates, and sheaves\", Shannon 1926 p.194), often in quartz, epidote or garnet rock.",
    "file": "specular_hematite.json",
-   "cards": 268,
-   "Best": 28,
-   "Great": 240,
+   "cards": 272,
+   "Best": 29,
+   "Great": 243,
    "Good": 0,
-   "pinned": 28,
-   "bytes": 489051
+   "pinned": 29,
+   "bytes": 493826
   },
   {
    "kind": "star_garnet",
@@ -324,7 +324,7 @@
    "Great": 25,
    "Good": 5,
    "pinned": 7,
-   "bytes": 49350
+   "bytes": 49978
   },
   {
    "kind": "sunstone",
@@ -336,7 +336,7 @@
    "Great": 1,
    "Good": 0,
    "pinned": 2,
-   "bytes": 7973
+   "bytes": 8541
   },
   {
    "kind": "thunderegg",
@@ -348,7 +348,7 @@
    "Great": 704,
    "Good": 3324,
    "pinned": 117,
-   "bytes": 5361735
+   "bytes": 5363624
   },
   {
    "kind": "topaz",
@@ -360,7 +360,7 @@
    "Great": 79,
    "Good": 0,
    "pinned": 33,
-   "bytes": 145079
+   "bytes": 145536
   },
   {
    "kind": "tourmaline",
