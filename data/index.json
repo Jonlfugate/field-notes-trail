@@ -1,5 +1,5 @@
 {
- "built": "2026-11-18 13:58",
+ "built": "2026-11-18 16:44",
  "kinds": [
   {
    "kind": "agate",
@@ -35,7 +35,7 @@
    "Great": 163,
    "Good": 0,
    "pinned": 29,
-   "bytes": 262646
+   "bytes": 262662
   },
   {
    "kind": "azurite",
@@ -59,7 +59,7 @@
    "Great": 1118,
    "Good": 5260,
    "pinned": 221,
-   "bytes": 8958435
+   "bytes": 8958467
   },
   {
    "kind": "common_opal",
@@ -95,7 +95,7 @@
    "Great": 3073,
    "Good": 0,
    "pinned": 16,
-   "bytes": 2687039
+   "bytes": 2687071
   },
   {
    "kind": "galena",
@@ -246,12 +246,12 @@
    "name": "Quartz crystal",
    "look": "Six-sided prisms with pointed ends, single or in clusters; doubly terminated crystals are rare.",
    "file": "quartz_crystal.json",
-   "cards": 314,
-   "Best": 49,
-   "Great": 265,
+   "cards": 683,
+   "Best": 99,
+   "Great": 584,
    "Good": 0,
-   "pinned": 48,
-   "bytes": 376684
+   "pinned": 99,
+   "bytes": 857513
   },
   {
    "kind": "amethyst",
@@ -259,12 +259,12 @@
    "look": "Purple quartz crystals: iron in the quartz turned purple by natural radiation (Fritsch and Rossman 1988); surface amethyst is often pale (Dillhoff and George 2016). Quartz crystal spots with a confirmed amethyst find within 10 km.",
    "of": "quartz_crystal",
    "file": "amethyst.json",
-   "cards": 101,
-   "Best": 32,
-   "Great": 69,
+   "cards": 201,
+   "Best": 77,
+   "Great": 124,
    "Good": 0,
-   "pinned": 25,
-   "bytes": 185954
+   "pinned": 54,
+   "bytes": 381342
   },
   {
    "kind": "rhodochrosite",
@@ -360,7 +360,7 @@
    "Great": 79,
    "Good": 0,
    "pinned": 33,
-   "bytes": 145071
+   "bytes": 145079
   },
   {
    "kind": "tourmaline",
@@ -372,7 +372,7 @@
    "Great": 617,
    "Good": 0,
    "pinned": 27,
-   "bytes": 931619
+   "bytes": 931643
   }
  ]
 }
