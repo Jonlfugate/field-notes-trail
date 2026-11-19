@@ -1,17 +1,17 @@
 {
- "built": "2026-11-19 00:18",
+ "built": "2026-11-19 15:31",
  "kinds": [
   {
    "kind": "agate",
    "name": "Agate",
    "look": "Drab brown, grey or black outside; often covered with small half-moon chips under 1 cm across; can be pitted.",
    "file": "agate.json",
-   "cards": 7895,
+   "cards": 8153,
    "Best": 330,
-   "Great": 1799,
+   "Great": 2057,
    "Good": 5766,
    "pinned": 300,
-   "bytes": 7280283
+   "bytes": 7681187
   },
   {
    "kind": "almandine",
@@ -46,8 +46,8 @@
    "Best": 177,
    "Great": 1019,
    "Good": 0,
-   "pinned": 72,
-   "bytes": 1413290
+   "pinned": 177,
+   "bytes": 1442494
   },
   {
    "kind": "beryl",
@@ -59,7 +59,7 @@
    "Great": 1118,
    "Good": 5260,
    "pinned": 221,
-   "bytes": 8958483
+   "bytes": 8961755
   },
   {
    "kind": "common_opal",
@@ -102,36 +102,36 @@
    "name": "Galena",
    "look": "Heavy, lead-grey, bright metallic pieces that break into little cubes with square corners; crystals (cubes, cuboctahedra) only in vugs.",
    "file": "galena.json",
-   "cards": 50,
-   "Best": 43,
-   "Great": 7,
+   "cards": 54,
+   "Best": 48,
+   "Great": 6,
    "Good": 0,
-   "pinned": 43,
-   "bytes": 103753
+   "pinned": 48,
+   "bytes": 109255
   },
   {
    "kind": "grossular_andradite",
    "name": "Skarn garnet",
    "look": "Brown, green or honey-coloured crystals and massive garnet rock at limestone contacts, often with epidote, pyroxene, calcite and copper stain; the best crystals grew into calcite or open joints and come free \"leaving beautifully sharp casts\" (Shannon 1926 p.301, Seven Devils).",
    "file": "grossular_andradite.json",
-   "cards": 26,
-   "Best": 8,
-   "Great": 18,
+   "cards": 170,
+   "Best": 24,
+   "Great": 146,
    "Good": 0,
-   "pinned": 8,
-   "bytes": 43397
+   "pinned": 24,
+   "bytes": 206117
   },
   {
    "kind": "jasper",
    "name": "Jasper",
    "look": "Red, yellow, brown or green; rhyolite-margin jasper is \"usually too fractured\" (Bonnichsen).",
    "file": "jasper.json",
-   "cards": 7973,
+   "cards": 8160,
    "Best": 223,
-   "Great": 1421,
+   "Great": 1608,
    "Good": 6329,
    "pinned": 216,
-   "bytes": 6668915
+   "bytes": 6923624
   },
   {
    "kind": "malachite",
@@ -142,44 +142,44 @@
    "Best": 635,
    "Great": 1391,
    "Good": 0,
-   "pinned": 323,
-   "bytes": 2511613
+   "pinned": 635,
+   "bytes": 2591008
   },
   {
    "kind": "muscovite",
    "name": "Mica",
    "look": "Thick six-sided or ragged \"books\" of mica, from an inch to a foot across, in coarse quartz-feldspar pegmatite or loose in the soil below it; they peel into thin, clear, flexible sheets.",
    "file": "muscovite.json",
-   "cards": 1288,
+   "cards": 1297,
    "Best": 10,
-   "Great": 418,
-   "Good": 860,
+   "Great": 426,
+   "Good": 861,
    "pinned": 10,
-   "bytes": 1931744
+   "bytes": 1937656
   },
   {
    "kind": "native_copper",
    "name": "Native copper",
    "look": "Copper-red to brown or green-coated wires, branching (dendritic) plates, thin films on fractures and small ragged flakes in rusty oxidized ore or dark volcanic rock; often crusted with green malachite or red cuprite.",
    "file": "native_copper.json",
-   "cards": 422,
-   "Best": 29,
-   "Great": 393,
+   "cards": 434,
+   "Best": 35,
+   "Great": 399,
    "Good": 0,
-   "pinned": 29,
-   "bytes": 759139
+   "pinned": 35,
+   "bytes": 766233
   },
   {
    "kind": "native_silver",
    "name": "Native silver",
    "look": "Wires, curls, moss-like and frost-like growths, thin leaves or foil in cavities and cracks of rusty, oxidized vein rock (cerusite, limonite, quartz).",
    "file": "native_silver.json",
-   "cards": 550,
-   "Best": 25,
-   "Great": 525,
+   "cards": 575,
+   "Best": 51,
+   "Great": 524,
    "Good": 0,
-   "pinned": 25,
-   "bytes": 973396
+   "pinned": 51,
+   "bytes": 1003877
   },
   {
    "kind": "obsidian",
@@ -191,7 +191,7 @@
    "Great": 807,
    "Good": 0,
    "pinned": 10,
-   "bytes": 957144
+   "bytes": 1012785
   },
   {
    "kind": "opal",
@@ -215,31 +215,31 @@
    "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 525629
+   "bytes": 525086
   },
   {
    "kind": "pyrite",
    "name": "Pyrite",
    "look": "Brassy cubes, pyritohedrons (twelve five-sided faces) or octahedra in quartz, calcite or soft sericite; on a dump, in pieces of vein rock and altered granite.",
    "file": "pyrite.json",
-   "cards": 14,
-   "Best": 12,
-   "Great": 2,
+   "cards": 26,
+   "Best": 21,
+   "Great": 5,
    "Good": 0,
-   "pinned": 12,
-   "bytes": 35865
+   "pinned": 21,
+   "bytes": 49677
   },
   {
    "kind": "pyromorphite",
    "name": "Pyromorphite",
    "look": "Green, yellow or brown six-sided barrel-shaped crystals, crusts and mossy growths in cracks of rusty, limonite-stained vein rock and slate (\"The prism faces are usually deeply furrowed horizontally and are frequently curved or bulging giving the crystal a barrel shape\", Shannon 1926 p.419).",
    "file": "pyromorphite.json",
-   "cards": 204,
-   "Best": 38,
-   "Great": 166,
+   "cards": 211,
+   "Best": 43,
+   "Great": 168,
    "Good": 0,
-   "pinned": 38,
-   "bytes": 421140
+   "pinned": 43,
+   "bytes": 431251
   },
   {
    "kind": "quartz_crystal",
@@ -275,8 +275,8 @@
    "Best": 73,
    "Great": 807,
    "Good": 0,
-   "pinned": 25,
-   "bytes": 862275
+   "pinned": 73,
+   "bytes": 877352
   },
   {
    "kind": "rhodonite",
@@ -343,12 +343,12 @@
    "name": "Thunderegg",
    "look": "A ball from under an inch to 4 feet across, \"most are about the size of a baseball\", with \"a knobby rind of drab, siliceous rock\" (Staples 1965); found in the soil and loose rock near its source.",
    "file": "thunderegg.json",
-   "cards": 4148,
+   "cards": 4165,
    "Best": 120,
-   "Great": 704,
+   "Great": 721,
    "Good": 3324,
    "pinned": 117,
-   "bytes": 5363624
+   "bytes": 5378663
   },
   {
    "kind": "topaz",
