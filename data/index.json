@@ -1,5 +1,5 @@
 {
- "built": "2026-11-19 19:48",
+ "built": "2026-11-19 21:47",
  "kinds": [
   {
    "kind": "agate",
@@ -10,8 +10,8 @@
    "Best": 330,
    "Great": 2057,
    "Good": 5766,
-   "pinned": 297,
-   "bytes": 7839081
+   "pinned": 299,
+   "bytes": 7839650
   },
   {
    "kind": "almandine",
@@ -22,8 +22,8 @@
    "Best": 531,
    "Great": 2535,
    "Good": 4652,
-   "pinned": 507,
-   "bytes": 8568797
+   "pinned": 522,
+   "bytes": 8573303
   },
   {
    "kind": "aquamarine",
@@ -58,8 +58,8 @@
    "Best": 222,
    "Great": 1130,
    "Good": 5280,
-   "pinned": 219,
-   "bytes": 9096230
+   "pinned": 222,
+   "bytes": 9097430
   },
   {
    "kind": "common_opal",
@@ -94,8 +94,8 @@
    "Best": 17,
    "Great": 3088,
    "Good": 0,
-   "pinned": 15,
-   "bytes": 2762412
+   "pinned": 17,
+   "bytes": 2763355
   },
   {
    "kind": "galena",
@@ -106,8 +106,8 @@
    "Best": 48,
    "Great": 6,
    "Good": 0,
-   "pinned": 47,
-   "bytes": 112133
+   "pinned": 48,
+   "bytes": 112335
   },
   {
    "kind": "grossular_andradite",
@@ -142,8 +142,8 @@
    "Best": 635,
    "Great": 1391,
    "Good": 0,
-   "pinned": 607,
-   "bytes": 2668761
+   "pinned": 610,
+   "bytes": 2669496
   },
   {
    "kind": "muscovite",
@@ -275,8 +275,8 @@
    "Best": 73,
    "Great": 807,
    "Good": 0,
-   "pinned": 69,
-   "bytes": 925849
+   "pinned": 70,
+   "bytes": 926119
   },
   {
    "kind": "rhodonite",
@@ -347,8 +347,8 @@
    "Best": 120,
    "Great": 721,
    "Good": 3324,
-   "pinned": 116,
-   "bytes": 5497204
+   "pinned": 117,
+   "bytes": 5497431
   },
   {
    "kind": "topaz",
@@ -371,8 +371,8 @@
    "Best": 28,
    "Great": 617,
    "Good": 0,
-   "pinned": 27,
-   "bytes": 953957
+   "pinned": 28,
+   "bytes": 954574
   }
  ]
 }
