@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22 16:51",
+ "built": "2026-11-23 01:58",
  "kinds": [
   {
    "kind": "agate",
@@ -11,7 +11,7 @@
    "Great": 2057,
    "Good": 5766,
    "pinned": 299,
-   "bytes": 7839658
+   "bytes": 7885944
   },
   {
    "kind": "almandine",
@@ -23,7 +23,7 @@
    "Great": 2535,
    "Good": 4652,
    "pinned": 522,
-   "bytes": 8573303
+   "bytes": 8608549
   },
   {
    "kind": "aquamarine",
@@ -35,7 +35,7 @@
    "Great": 163,
    "Good": 0,
    "pinned": 29,
-   "bytes": 262374
+   "bytes": 262861
   },
   {
    "kind": "azurite",
@@ -47,7 +47,7 @@
    "Great": 1019,
    "Good": 0,
    "pinned": 171,
-   "bytes": 1491569
+   "bytes": 1495526
   },
   {
    "kind": "beryl",
@@ -59,7 +59,7 @@
    "Great": 1130,
    "Good": 5280,
    "pinned": 222,
-   "bytes": 9097430
+   "bytes": 9107278
   },
   {
    "kind": "common_opal",
@@ -71,7 +71,7 @@
    "Great": 713,
    "Good": 952,
    "pinned": 58,
-   "bytes": 2375318
+   "bytes": 2379455
   },
   {
    "kind": "corundum",
@@ -83,7 +83,7 @@
    "Great": 98,
    "Good": 7,
    "pinned": 0,
-   "bytes": 160708
+   "bytes": 163306
   },
   {
    "kind": "elbaite",
@@ -95,7 +95,7 @@
    "Great": 3088,
    "Good": 0,
    "pinned": 17,
-   "bytes": 2763355
+   "bytes": 2814291
   },
   {
    "kind": "galena",
@@ -119,7 +119,7 @@
    "Great": 146,
    "Good": 0,
    "pinned": 22,
-   "bytes": 215772
+   "bytes": 216027
   },
   {
    "kind": "jasper",
@@ -131,7 +131,7 @@
    "Great": 1608,
    "Good": 6329,
    "pinned": 212,
-   "bytes": 7050574
+   "bytes": 7100190
   },
   {
    "kind": "malachite",
@@ -143,7 +143,7 @@
    "Great": 1391,
    "Good": 0,
    "pinned": 610,
-   "bytes": 2669496
+   "bytes": 2674524
   },
   {
    "kind": "muscovite",
@@ -155,7 +155,7 @@
    "Great": 426,
    "Good": 861,
    "pinned": 10,
-   "bytes": 1980373
+   "bytes": 1984097
   },
   {
    "kind": "native_copper",
@@ -167,7 +167,7 @@
    "Great": 399,
    "Good": 0,
    "pinned": 35,
-   "bytes": 792395
+   "bytes": 794691
   },
   {
    "kind": "native_silver",
@@ -179,7 +179,7 @@
    "Great": 524,
    "Good": 0,
    "pinned": 47,
-   "bytes": 1041929
+   "bytes": 1042721
   },
   {
    "kind": "obsidian",
@@ -191,7 +191,7 @@
    "Great": 807,
    "Good": 0,
    "pinned": 10,
-   "bytes": 1040347
+   "bytes": 1042424
   },
   {
    "kind": "opal",
@@ -203,7 +203,7 @@
    "Great": 237,
    "Good": 5634,
    "pinned": 38,
-   "bytes": 7588123
+   "bytes": 7597272
   },
   {
    "kind": "opalized_wood",
@@ -215,7 +215,7 @@
    "Great": 465,
    "Good": 0,
    "pinned": 6,
-   "bytes": 539711
+   "bytes": 541707
   },
   {
    "kind": "petrified_wood",
@@ -227,7 +227,7 @@
    "Great": 301,
    "Good": 1176,
    "pinned": 28,
-   "bytes": 1896122
+   "bytes": 1906241
   },
   {
    "kind": "pyrite",
@@ -251,7 +251,7 @@
    "Great": 168,
    "Good": 0,
    "pinned": 42,
-   "bytes": 447434
+   "bytes": 448226
   },
   {
    "kind": "quartz_crystal",
@@ -263,7 +263,7 @@
    "Great": 584,
    "Good": 0,
    "pinned": 137,
-   "bytes": 888543
+   "bytes": 890213
   },
   {
    "kind": "amethyst",
@@ -276,7 +276,7 @@
    "Great": 124,
    "Good": 0,
    "pinned": 92,
-   "bytes": 412193
+   "bytes": 413862
   },
   {
    "kind": "rhodochrosite",
@@ -288,7 +288,7 @@
    "Great": 807,
    "Good": 0,
    "pinned": 70,
-   "bytes": 926119
+   "bytes": 927327
   },
   {
    "kind": "rhodonite",
@@ -312,7 +312,7 @@
    "Great": 77,
    "Good": 0,
    "pinned": 6,
-   "bytes": 133518
+   "bytes": 136021
   },
   {
    "kind": "specular_hematite",
@@ -324,7 +324,7 @@
    "Great": 243,
    "Good": 0,
    "pinned": 29,
-   "bytes": 509346
+   "bytes": 510754
   },
   {
    "kind": "star_garnet",
@@ -336,7 +336,7 @@
    "Great": 25,
    "Good": 5,
    "pinned": 7,
-   "bytes": 49554
+   "bytes": 51254
   },
   {
    "kind": "sunstone",
@@ -360,7 +360,7 @@
    "Great": 721,
    "Good": 3324,
    "pinned": 117,
-   "bytes": 5497439
+   "bytes": 5504668
   },
   {
    "kind": "topaz",
@@ -372,7 +372,7 @@
    "Great": 80,
    "Good": 0,
    "pinned": 33,
-   "bytes": 147789
+   "bytes": 148281
   },
   {
    "kind": "tourmaline",
@@ -384,7 +384,7 @@
    "Great": 617,
    "Good": 0,
    "pinned": 28,
-   "bytes": 954574
+   "bytes": 955989
   }
  ]
 }
