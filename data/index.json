@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23 01:58",
+ "built": "2026-11-23 02:37",
  "kinds": [
   {
    "kind": "agate",
@@ -47,7 +47,7 @@
    "Great": 1019,
    "Good": 0,
    "pinned": 171,
-   "bytes": 1495526
+   "bytes": 1495534
   },
   {
    "kind": "beryl",
@@ -114,12 +114,12 @@
    "name": "Skarn garnet",
    "look": "Brown, green or honey-coloured crystals and massive garnet rock at limestone contacts, often with epidote, pyroxene, calcite and copper stain; the best crystals grew into calcite or open joints and come free \"leaving beautifully sharp casts\" (Shannon 1926 p.301, Seven Devils).",
    "file": "grossular_andradite.json",
-   "cards": 170,
-   "Best": 24,
-   "Great": 146,
+   "cards": 190,
+   "Best": 29,
+   "Great": 161,
    "Good": 0,
-   "pinned": 22,
-   "bytes": 216027
+   "pinned": 27,
+   "bytes": 254061
   },
   {
    "kind": "jasper",
@@ -143,7 +143,7 @@
    "Great": 1391,
    "Good": 0,
    "pinned": 610,
-   "bytes": 2674524
+   "bytes": 2674532
   },
   {
    "kind": "muscovite",
@@ -191,7 +191,7 @@
    "Great": 807,
    "Good": 0,
    "pinned": 10,
-   "bytes": 1042424
+   "bytes": 1042439
   },
   {
    "kind": "opal",
