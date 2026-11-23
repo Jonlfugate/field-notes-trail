@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23 02:37",
+ "built": "2026-11-23 03:20",
  "kinds": [
   {
    "kind": "agate",
@@ -102,12 +102,12 @@
    "name": "Galena",
    "look": "Heavy, lead-grey, bright metallic pieces that break into little cubes with square corners; crystals (cubes, cuboctahedra) only in vugs.",
    "file": "galena.json",
-   "cards": 54,
+   "cards": 1324,
    "Best": 48,
    "Great": 6,
-   "Good": 0,
+   "Good": 1270,
    "pinned": 48,
-   "bytes": 112335
+   "bytes": 2353824
   },
   {
    "kind": "grossular_andradite",
