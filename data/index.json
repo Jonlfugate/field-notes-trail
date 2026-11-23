@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22 10:20",
+ "built": "2026-11-22 16:51",
  "kinds": [
   {
    "kind": "agate",
@@ -222,12 +222,12 @@
    "name": "Petrified wood",
    "look": "Stone with the grain, rings, knots or bark of wood: it \"can best be identified by the grain pattern of the annual growth rings\" (Ochoco National Forest).",
    "file": "petrified_wood.json",
-   "cards": 1504,
+   "cards": 1508,
    "Best": 31,
-   "Great": 297,
+   "Great": 301,
    "Good": 1176,
    "pinned": 28,
-   "bytes": 1890270
+   "bytes": 1896122
   },
   {
    "kind": "pyrite",
