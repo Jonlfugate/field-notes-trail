@@ -1,29 +1,29 @@
 {
- "built": "2026-11-23 03:20",
+ "built": "2026-11-25 00:48",
  "kinds": [
   {
    "kind": "agate",
    "name": "Agate",
    "look": "Drab brown, grey or black outside; often covered with small half-moon chips under 1 cm across; can be pitted.",
    "file": "agate.json",
-   "cards": 8153,
+   "cards": 8065,
    "Best": 330,
-   "Great": 2057,
-   "Good": 5766,
+   "Great": 2053,
+   "Good": 5682,
    "pinned": 299,
-   "bytes": 7885944
+   "bytes": 7829013
   },
   {
    "kind": "almandine",
    "name": "Almandine garnet",
    "look": "Ball-shaped 12-sided (dodecahedron) or 24-sided (trapezohedron) crystals in schist, gneiss and amphibolite; in gravel, mostly \"broken fragments of crystals\" (USGS SP14-95, Ruby River).",
    "file": "almandine.json",
-   "cards": 7718,
+   "cards": 7579,
    "Best": 531,
-   "Great": 2535,
-   "Good": 4652,
+   "Great": 2521,
+   "Good": 4527,
    "pinned": 522,
-   "bytes": 8608549
+   "bytes": 8489571
   },
   {
    "kind": "aquamarine",
@@ -54,12 +54,12 @@
    "name": "Beryl",
    "look": "Six-sided prisms, \"Green and white crystals ...",
    "file": "beryl.json",
-   "cards": 6632,
+   "cards": 6624,
    "Best": 222,
    "Great": 1130,
-   "Good": 5280,
+   "Good": 5272,
    "pinned": 222,
-   "bytes": 9107278
+   "bytes": 9099635
   },
   {
    "kind": "common_opal",
@@ -90,24 +90,24 @@
    "name": "Gem tourmaline (elbaite)",
    "look": "Pink, green or blue prisms in the pockets of the pegmatite, often with smoky quartz; gem varieties \"may display different colors within the same crystal\" (Dole 1950 p.24).",
    "file": "elbaite.json",
-   "cards": 3105,
+   "cards": 3053,
    "Best": 17,
-   "Great": 3088,
+   "Great": 3036,
    "Good": 0,
    "pinned": 17,
-   "bytes": 2814291
+   "bytes": 2775562
   },
   {
    "kind": "galena",
    "name": "Galena",
    "look": "Heavy, lead-grey, bright metallic pieces that break into little cubes with square corners; crystals (cubes, cuboctahedra) only in vugs.",
    "file": "galena.json",
-   "cards": 1324,
+   "cards": 1323,
    "Best": 48,
    "Great": 6,
-   "Good": 1270,
+   "Good": 1269,
    "pinned": 48,
-   "bytes": 2353824
+   "bytes": 2352542
   },
   {
    "kind": "grossular_andradite",
@@ -126,12 +126,12 @@
    "name": "Jasper",
    "look": "Red, yellow, brown or green; rhyolite-margin jasper is \"usually too fractured\" (Bonnichsen).",
    "file": "jasper.json",
-   "cards": 8160,
+   "cards": 8033,
    "Best": 223,
-   "Great": 1608,
-   "Good": 6329,
+   "Great": 1605,
+   "Good": 6205,
    "pinned": 212,
-   "bytes": 7100190
+   "bytes": 7014820
   },
   {
    "kind": "malachite",
@@ -191,19 +191,19 @@
    "Great": 807,
    "Good": 0,
    "pinned": 10,
-   "bytes": 1042439
+   "bytes": 1042900
   },
   {
    "kind": "opal",
    "name": "Precious opal",
    "look": "Thin layers and nodules in gas cavities, seams and joint fillings in rhyolite (Spencer: vugs \"up to six inches\", Broughton 1972 p.103); at Opal Butte, inside rhyolite geodes \"from a few centimeters to well over a meter in diameter\" (Smith 1988 p.230).",
    "file": "opal.json",
-   "cards": 5912,
+   "cards": 5910,
    "Best": 41,
    "Great": 237,
-   "Good": 5634,
+   "Good": 5632,
    "pinned": 38,
-   "bytes": 7597272
+   "bytes": 7595629
   },
   {
    "kind": "opalized_wood",
@@ -222,12 +222,12 @@
    "name": "Petrified wood",
    "look": "Stone with the grain, rings, knots or bark of wood: it \"can best be identified by the grain pattern of the annual growth rings\" (Ochoco National Forest).",
    "file": "petrified_wood.json",
-   "cards": 1508,
+   "cards": 1491,
    "Best": 31,
    "Great": 301,
-   "Good": 1176,
+   "Good": 1159,
    "pinned": 28,
-   "bytes": 1906241
+   "bytes": 1895519
   },
   {
    "kind": "pyrite",
@@ -315,6 +315,18 @@
    "bytes": 136021
   },
   {
+   "kind": "serpentine",
+   "name": "Serpentine",
+   "look": "A green, waxy-looking rock that a knife scratches.",
+   "file": "serpentine.json",
+   "cards": 1075,
+   "Best": 136,
+   "Great": 939,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 1304773
+  },
+  {
    "kind": "specular_hematite",
    "name": "Specular hematite",
    "look": "Steel-grey to black, very shiny flakes, curved plates and rosettes (\"broad, lustrous plates, and sheaves\", Shannon 1926 p.194), often in quartz, epidote or garnet rock.",
@@ -324,7 +336,7 @@
    "Great": 243,
    "Good": 0,
    "pinned": 29,
-   "bytes": 510754
+   "bytes": 510762
   },
   {
    "kind": "star_garnet",
@@ -360,7 +372,7 @@
    "Great": 721,
    "Good": 3324,
    "pinned": 117,
-   "bytes": 5504668
+   "bytes": 5505305
   },
   {
    "kind": "topaz",
@@ -379,12 +391,12 @@
    "name": "Tourmaline",
    "look": "Black, glossy, striated prisms, often three-sided in cross-section with rounded sides, from needles to fat crystals; \"as small and large crystals and as crystal aggregates 6 inches or more across\" (Stoll 1950 p.20); \"coarse imperfect black crystals\" in pegmatite blocks in talus (Shannon 1926 p.341).",
    "file": "tourmaline.json",
-   "cards": 645,
+   "cards": 644,
    "Best": 28,
-   "Great": 617,
+   "Great": 616,
    "Good": 0,
    "pinned": 28,
-   "bytes": 955989
+   "bytes": 954814
   }
  ]
 }
