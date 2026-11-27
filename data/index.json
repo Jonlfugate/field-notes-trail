@@ -1,5 +1,5 @@
 {
- "built": "2026-11-25 02:59",
+ "built": "2026-11-27 14:06",
  "kinds": [
   {
    "kind": "agate",
@@ -23,7 +23,7 @@
    "Great": 2521,
    "Good": 4527,
    "pinned": 522,
-   "bytes": 8489571
+   "bytes": 8489595
   },
   {
    "kind": "aquamarine",
@@ -59,7 +59,7 @@
    "Great": 1130,
    "Good": 5272,
    "pinned": 222,
-   "bytes": 9099635
+   "bytes": 9099667
   },
   {
    "kind": "common_opal",
@@ -155,7 +155,7 @@
    "Great": 426,
    "Good": 861,
    "pinned": 10,
-   "bytes": 1984097
+   "bytes": 1984121
   },
   {
    "kind": "native_copper",
@@ -300,7 +300,7 @@
    "Great": 134,
    "Good": 0,
    "pinned": 0,
-   "bytes": 209420
+   "bytes": 209428
   },
   {
    "kind": "sapphire",
@@ -324,7 +324,19 @@
    "Great": 939,
    "Good": 0,
    "pinned": 132,
-   "bytes": 1338165
+   "bytes": 1338229
+  },
+  {
+   "kind": "soapstone",
+   "name": "Soapstone",
+   "look": "A soft gray, green or white stone that feels like soap.",
+   "file": "soapstone.json",
+   "cards": 591,
+   "Best": 96,
+   "Great": 495,
+   "Good": 0,
+   "pinned": 0,
+   "bytes": 813025
   },
   {
    "kind": "specular_hematite",
