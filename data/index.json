@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28 12:16",
+ "built": "2026-11-28 12:41",
  "kinds": [
   {
    "kind": "agate",
@@ -120,6 +120,18 @@
    "Good": 0,
    "pinned": 27,
    "bytes": 254061
+  },
+  {
+   "kind": "jade",
+   "name": "Jade",
+   "look": "A heavy, very tough green stone.",
+   "file": "jade.json",
+   "cards": 76,
+   "Best": 10,
+   "Great": 50,
+   "Good": 16,
+   "pinned": 0,
+   "bytes": 85769
   },
   {
    "kind": "jasper",
@@ -324,7 +336,7 @@
    "Great": 939,
    "Good": 0,
    "pinned": 132,
-   "bytes": 1338229
+   "bytes": 1338245
   },
   {
    "kind": "soapstone",
